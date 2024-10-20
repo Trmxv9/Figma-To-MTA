@@ -14,8 +14,6 @@ Transforme seus designs do Figma em scripts Lua para MTA de forma rápida e efic
 
 Facilite o desenvolvimento de suas interfaces com essa poderosa ferramenta que conecta o mundo do design com a programação!
 
-![Figma Convert MTA-Cover](https://github.com/user-attachments/assets/40a82369-dc8a-4758-86b7-4bdc76cc98b7)
-
 ---
 
 ### Description (en-US)
