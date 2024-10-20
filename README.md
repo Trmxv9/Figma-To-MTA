@@ -5,7 +5,7 @@ Transforme seus designs do Figma em scripts Lua para MTA de forma rápida e prá
 **🔗 Recursos Úteis:**
 - **Tutorial:** Aprenda a usar a ferramenta [aqui](https://youtu.be/mvAy16JpKMA).
 - **Comunitária:** Junte-se ao nosso Discord [aqui](https://discord.gg/rNAXhxN3hN).
-- **Versões e Lançamentos:** Acesse os releases [aqui](https://github.com/Trmxv9/Figma-To-MTA/releases).
+- **Versões e Lançamentos:** Downloads [aqui](https://github.com/Trmxv9/Figma-To-MTA/releases).
 - **Figma API Key:** Obtenha sua chave de API [aqui](https://www.figma.com/developers/api#access-tokens).
 
 Venha facilitar sua vida no desenvolvimento com essa ferramenta que une design e programação!
