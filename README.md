@@ -30,6 +30,6 @@ Quickly and efficiently turn your Figma designs into Lua scripts for MTA! With *
 
 Make your interface development easier with this powerful tool that bridges design and programming!
 
-![Figma Convert MTA-Cover](https://github.com/user-attachments/assets/40a82369-dc8a-4758-86b7-4bdc76cc98b7)
+![Sem Título-Miniatura](https://github.com/user-attachments/assets/e67ff775-77e9-4cf5-9b5b-12335634df1e)
 
 ---
